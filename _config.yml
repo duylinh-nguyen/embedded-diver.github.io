@@ -1,6 +1,6 @@
 title: embedded-diver
 description: dive into the deep 'embedded' ocean
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 url: embedded-diver.github.io
