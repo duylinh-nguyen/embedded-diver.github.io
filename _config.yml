@@ -4,3 +4,12 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 url: embedded-diver.github.io
+
+sidebar:
+  - label: Home 
+    children:
+      - home_page
+
+search_enable: true
+
+    

@@ -1,3 +1,8 @@
+---
+id: home_page 
+description: This is just another page
+---
+
 # Deep dive into embedded world!
 
 This page was created for testing purpose. 
